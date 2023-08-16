@@ -3,7 +3,9 @@
 [Alcohol Language Corpus](https://www.en.phonetik.uni-muenchen.de/research/completed_projects/alc.html)
 ## Workflow
 <img src="workflow.png" width="700" height="300" />
+
 ## Models
+
 - CNN
 <img src="cnn.png" width="400" height="400" />
 
