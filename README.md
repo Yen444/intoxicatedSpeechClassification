@@ -5,8 +5,8 @@
 <img src="workflow.png" width="700" height="300" />
 
 ## Models
-
 - CNN
+  
 <img src="cnn.png" width="400" height="400" />
 
 - Pretrained Wav2Vec2
