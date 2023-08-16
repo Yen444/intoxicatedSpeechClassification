@@ -28,7 +28,7 @@
 ```
 ## Data preprocessing
 - Acoustic features of all wav files are extracted using openSMILE.
-- Once openSMILE is installed, you can nagigate to the config files to remove/add features you want to extract.
+- Once openSMILE is installed, you can navigate to the config files to remove/add features you want to extract.
 - The config file for **eGEMAPS** feature set is, e.g., saved under: `anaconda3/envs/TL/lib/python3.10/site-packages/opensmile/core/config/egemaps`
 ## Notes
 - Json files are converted to h5 files (`load_convert_data.py`) to be loaded faster in CNN.
