@@ -5,11 +5,11 @@
 <!--- <img src="workflow.png" width="700" height="300" /> -->
 ![](workflow.png)
 ## Models
-- CNN
-![](cnn.png)
+- CNN: `alc_cnn.ipynb`
+<!--- ![](cnn_achitecture.png) -->
 
 <!--- <img src="cnn.png" width="700" height="700" /> -->
-- Pretrained Wav2Vec2
+- Pretrained Wav2Vec2: `alc_wav2vec2.ipynb`
 ## Feature Extraction
 - Feature sets: eGEMAPS, COMPARE
 - Tool: [openSMILE](https://www.audeering.com/research/opensmile/)
@@ -18,7 +18,7 @@
 ├── README.md
 ├── alc_cnn.ipynb
 ├── alc_wav2vec2.ipynb
-├── cnn.png
+├── cnn_architecture.png
 ├── feature_extraction_compare.py
 ├── feature_extraction_egemaps.py
 ├── file_name_split
