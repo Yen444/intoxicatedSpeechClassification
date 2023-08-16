@@ -2,10 +2,13 @@
 ## Dataset
 [Alcohol Language Corpus](https://www.en.phonetik.uni-muenchen.de/research/completed_projects/alc.html)
 ## Workflow
-![Workflow](workflow.png)
+<img src="workflow.png" width="700" height="300" />
+
 ## Models
 - CNN
-![](cnn.png)
+  
+<img src="cnn.png" width="400" height="400" />
+
 - Pretrained Wav2Vec2
 ## Feature Extraction
 - Feature sets: eGEMAPS, COMPARE
