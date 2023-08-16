@@ -2,7 +2,7 @@
 ## Dataset
 [Alcohol Language Corpus](https://www.en.phonetik.uni-muenchen.de/research/completed_projects/alc.html)
 ## Workflow
-<img src="workflow.png" width="800" height="300" />
+<img src="workflow.png" width="400" height="200" />
 ## Models
 - CNN
 <img src="cnn.png" width="400" height="400" />
