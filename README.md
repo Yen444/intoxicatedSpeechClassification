@@ -5,7 +5,8 @@
 ![Workflow](workflow.png)
 ## Models
 - CNN
-![](cnn.png =100x20)
+<img src="cnn.png" width="200" height="200" />
+![](cnn.png)
 - Pretrained Wav2Vec2
 ## Feature Extraction
 - Feature sets: eGEMAPS, COMPARE
